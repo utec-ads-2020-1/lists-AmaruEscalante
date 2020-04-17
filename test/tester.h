@@ -6,10 +6,11 @@
 #include <assert.h>
 
 #include "../mock/mocker.h"
+/*
 #include "../structures/lists/forward.h"
 #include "../structures/lists/linked.h"
 #include "../structures/lists/circular.h"
-
+*/
 using namespace std;
 
 #ifndef NDEBUG
